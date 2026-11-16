@@ -1,0 +1,17 @@
+[project]
+name = "downtown-san-diego-homeless-population-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Leandro Dalla Nora", email = "workdallanora@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+downtown-san-diego-homeless-population-analysis = "downtown_san_diego_homeless_population_analysis:main"
+
+[build-system]
+requires = ["uv_build>=0.13.1,<0.14.0"]
+build-backend = "uv_build"
