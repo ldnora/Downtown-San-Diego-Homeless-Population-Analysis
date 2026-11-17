@@ -1,0 +1,41 @@
+area,month,count,year,component,area_type,status
+Marina,Feb,62.0,2017,total,neighborhood,not_found_at_the_site
+East Village,Oct,649.0,2017,total,neighborhood,not_found_at_the_site
+South West EV,Apr,41.0,2018,total,sub-area,ok
+Core,Dec,121.0,2018,individual,neighborhood,ok
+Gaslamp,Feb,0.0,2018,tent,neighborhood,ok
+Marina,Jan,2.0,2018,tent,neighborhood,ok
+Marina,June,0.0,2018,vehicle,neighborhood,ok
+Marina,May,1.0,2018,vehicle,neighborhood,ok
+Cortez,Apr,44.0,2019,total,neighborhood,ok
+City Center,Dec,11.0,2019,tent,neighborhood,ok
+City Center,July,0.0,2019,vehicle,neighborhood,ok
+Columbia,July,52.0,2019,total,neighborhood,ok
+Columbia,Mar,9.0,2019,tent,neighborhood,ok
+Columbia,Nov,22.0,2019,individual,neighborhood,ok
+Gaslamp,Nov,2.0,2019,tent,neighborhood,ok
+East Village,Apr,39.0,2020,tent,neighborhood,ok
+Columbia,Dec,46.0,2020,individual,neighborhood,ok
+Columbia,Feb,6.0,2020,tent,neighborhood,ok
+Columbia,June,0.0,2020,vehicle,neighborhood,ok
+Gaslamp,Feb,1.0,2021,tent,neighborhood,ok
+East Village,July,9.0,2021,vehicle,neighborhood,ok
+Gaslamp,Aug,44.0,2022,individual,neighborhood,ok
+City Center,Dec,271.0,2022,total,neighborhood,ok
+Gaslamp,Dec,0.0,2022,vehicle,neighborhood,ok
+City Center,July,234.0,2022,total,neighborhood,ok
+Marina,May,0.0,2022,tent,neighborhood,ok
+Cortez,Aug,65.0,2023,total,neighborhood,ok
+Cortez,May,39.0,2023,tent,neighborhood,ok
+Marina,May,28.0,2023,individual,neighborhood,ok
+Marina,Sept,0.0,2023,vehicle,neighborhood,ok
+Cortez,June,13.0,2024,tent,neighborhood,ok
+Columbia,Mar,36.0,2024,individual,neighborhood,ok
+Cortez,Apr,49.0,2025,individual,neighborhood,ok
+Gaslamp,Apr,0.0,2025,vehicle,neighborhood,ok
+South East EV,Apr,43.0,2025,total,sub-area,not_ok-234
+City Center,Aug,,2025,total,neighborhood,not_ok-NaN
+East Village,Feb,409.0,2025,total,neighborhood,ok
+Cortez,July,,2025,vehicle,neighborhood,not_ok-NaN
+East Village,June,291.0,2025,individual,neighborhood,ok
+East Village,Nov,,2025,individual,neighborhood,not_ok-NaN
