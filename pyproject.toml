@@ -15,8 +15,14 @@ dependencies = [
 downtown-san-diego-homeless-population-analysis = "downtown_san_diego_homeless_population_analysis:main"
 
 [build-system]
-requires = ["uv_build>=0.13.1,<0.14.0"]
-build-backend = "uv_build"
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
 
 [tool.uv]
-package = false
+package = true
+
+[tool.setuptools]
+py-modules = ["config"]
+
+[tool.setuptools.package-dir]
+"" = "Tasks"
