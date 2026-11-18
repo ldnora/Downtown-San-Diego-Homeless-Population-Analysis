@@ -1,7 +1,8 @@
 # Downtown San Diego Homeless Analysis
 
 
-## Objetcite
+
+## Goal
 
 
 The Downtown SD Homeless Population project analyzes the unsheltered homeless population in downtown San Diego using monthly count data from the Downtown San Diego Partnership, disaggregated by neighborhood and East Village sub-area. The ultimate goal is to produce forecasts, hotspot analyses, and county-level estimates to support data-driven decisions by service providers, city and county agencies, and research organizations.
