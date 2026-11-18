@@ -29,3 +29,14 @@ Findings
 Visualizing the "Core" area at the [december 2018 map](https://downtownsandiego.org/wp-content/uploads/2019/04/December-2018-Homeless-Count_FINAL.pdf) and comparing with the [december 2025 map](https://downtownsandiego.org/wp-content/uploads/2026/01/December-2025-Sleep-counts-W-maps.pdf), the "Core" is the same of "City Center"
 
 
+## tents_structures in BlockLevel_Counts.csv
+
+### Nulls
+
+Count total of nulls in tents_structures: 1
+Count of floats: 0
+
+There are only 1 NaN. The strategy of null handling is use the median to imput this data according with the `block_id` (16TH_ST_C_ST).
+
+The type of this column should be a int, because there aren't float values in this column and there aren't how to create a half of tent.
+
